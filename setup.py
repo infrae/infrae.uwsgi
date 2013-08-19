@@ -3,7 +3,7 @@ import os
 
 setup(
     name='infrae.uwsgi',
-    version='1.0',
+    version='1.1dev',
     description='Buildout recipe downloading, compiling and configuring uWSGI.',
     long_description = open('README.txt', 'r').read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
