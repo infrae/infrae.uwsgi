@@ -5,7 +5,7 @@ setup(
     name='infrae.uwsgi',
     version='1.0',
     description='Buildout recipe downloading, compiling and configuring uWSGI.',
-    long_description = open('README.rst', 'r').read() + "\n" +
+    long_description = open('README.txt', 'r').read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
     author='Infrae',
     author_email='info@infrae.com',
@@ -19,7 +19,6 @@ setup(
     classifiers = [
         "Programming Language :: Python",
         "License :: OSI Approved :: BSD License",
-        "Development Status :: 4 - Beta",
         "Operating System :: OS Independent",
         "Framework :: Buildout",
         "Intended Audience :: Developers",

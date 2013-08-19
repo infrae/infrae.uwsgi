@@ -59,6 +59,7 @@ option, i.e.::
 
     [uwsgi]
     recipe=infrae.uwsgi
+    download-url=http://projects.unbit.it/downloads/uwsgi-1.4.9.tar.gz
     eggs=my_uwsgi_package
 
 .. _uWSGI: http://uwsgi-docs.readthedocs.org/

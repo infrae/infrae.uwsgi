@@ -1,7 +1,7 @@
 Changes
 =======
 
-1.0 (unreleased)
+1.0 (19-08-2013)
 ----------------
 
 * Initial version as a fork of `shaunsephton.recipe.uwsgi`_. Update
