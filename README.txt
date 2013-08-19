@@ -1,3 +1,4 @@
+============
 infrae.uwsgi
 ============
 
@@ -11,11 +12,10 @@ This recipe is a fork of shaunsephton.recipe.uwsgi, in order to update
 it to work with recent versions of Buildout and UWSGI. All credits
 goes to its original authors.
 
-.. contents:: Contents
-    :depth: 5
+.. contents::
 
 Usage
------
+=====
 
 Add a part to your ``buildout.cfg`` like so::
 

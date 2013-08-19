@@ -9,4 +9,4 @@ Changes
   improve the configuration options and prevent uwsgi to be downloaded
   and compiled each time buildout is ran.
 
-.._shaunsephton.recipe.uwsgi: http://github.com/shaunsephton/shaunsephton.recipe.uwsgi
+.. _shaunsephton.recipe.uwsgi: http://github.com/shaunsephton/shaunsephton.recipe.uwsgi
