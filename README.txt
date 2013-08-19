@@ -1,11 +1,15 @@
-shaunsephton.recipe.uwsgi
-=========================
+infrae.uwsgi
+============
 
 **Buildout recipe downloading, compiling and configuring uWSGI.**
 
 Creates a ``bin/`` uWSGI_ executable and ``parts`` XML configuration
 file with which you can easily launch Buildout sandboxed uWSGI_
-processes. This recipe is a fork of shaunsephton.recipe.uwsgi.
+processes.
+
+This recipe is a fork of shaunsephton.recipe.uwsgi, in order to update
+it to work with recent versions of Buildout and UWSGI. All credits
+goes to its original authors.
 
 .. contents:: Contents
     :depth: 5
