@@ -12,8 +12,6 @@ This recipe is a fork of shaunsephton.recipe.uwsgi, in order to update
 it to work with recent versions of Buildout and UWSGI. All credits
 goes to its original authors.
 
-.. contents::
-
 Usage
 =====
 
@@ -65,5 +63,12 @@ option, i.e.::
     recipe=infrae.uwsgi
     download-url=http://projects.unbit.it/downloads/uwsgi-1.4.9.tar.gz
     eggs=my_uwsgi_package
+
+
+Latest version
+==============
+
+The latest version is available in a `Subversion repository
+<https://svn.infrae.com/buildout/infrae.uwsgi/trunk>`_.
 
 .. _uWSGI: http://uwsgi-docs.readthedocs.org/
