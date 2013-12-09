@@ -68,7 +68,7 @@ option, i.e.::
 Latest version
 ==============
 
-The latest version is available in a `Subversion repository
-<https://svn.infrae.com/buildout/infrae.uwsgi/trunk>`_.
+The latest version is available in a `Git repository
+<https://github.com/infrae/infrae.uwsgi>`_.
 
 .. _uWSGI: http://uwsgi-docs.readthedocs.org/
